@@ -1,0 +1,14 @@
+#calendar {
+    background-color: rgb(250, 106, 142);
+    color: white;
+}
+
+#todo {
+    background-color: rgb(255, 247, 249);
+    color: rgb(250, 106, 142);
+}
+
+.homeDisplay {
+    grid-template-columns: minmax(150px, 25%) 1fr;
+    display: grid;
+}
